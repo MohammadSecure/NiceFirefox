@@ -14,7 +14,7 @@ $ nice -n 19 firefox
 # Use firefox-nice19.sh
 for use this script:
 ```
-1. download: git clone 
+1. download: git clone https://github.com/MohammadSecure/NiceFirefox.git
 2. sudo chmod +x firefox-nice19.sh
 3. ./firefox-nice19.sh
 ```
