@@ -7,4 +7,4 @@ firefox use many system resource for example it use many of cpu thread with defa
 for fix this problem you can use firefox with nice fixed
 in the other words you can start and continue firfox usage with nice fixe by the following command:
 
-' nice -n 19 firefox'
+$ nice -n 19 firefox
