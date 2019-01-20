@@ -18,3 +18,8 @@ for use this script:
 2. sudo chmod +x firefox-nice19.sh
 3. ./firefox-nice19.sh
 ```
+# For memory usage modify can use:
+
+```
+$ ulimit -Sv 4096000 -H 5000000 && nice -n 19 firefox
+ ```
